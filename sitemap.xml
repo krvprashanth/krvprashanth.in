@@ -10,10 +10,6 @@
   <lastmod>2026-04-21T11:47:00Z</lastmod>
  </url>
  <url>
-  <loc>https://krvprashanth.in/1111/</loc>
-  <lastmod>2026-04-21T11:47:00Z</lastmod>
- </url>
- <url>
   <loc>https://krvprashanth.in/2025/</loc>
   <lastmod>2026-01-05T11:17:00Z</lastmod>
  </url>
@@ -23,7 +19,7 @@
  </url>
  <url>
   <loc>https://krvprashanth.in/archive.html</loc>
-  <lastmod>2026-04-21T12:18:00Z</lastmod>
+  <lastmod>2026-07-08T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://krvprashanth.in/categories/</loc>
@@ -111,7 +107,7 @@
  </url>
  <url>
   <loc>https://krvprashanth.in/listings/hello.py.html</loc>
-  <lastmod>2026-04-07T09:53:00Z</lastmod>
+  <lastmod>2026-07-08T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://krvprashanth.in/pages/about/</loc>
@@ -126,8 +122,8 @@
   <lastmod>2026-04-07T09:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://krvprashanth.in/posts/dbr/</loc>
-  <lastmod>2026-04-21T11:46:00Z</lastmod>
+  <loc>https://krvprashanth.in/posts/booting-the-debian-installer-on-beaglebone-black/</loc>
+  <lastmod>2026-04-21T22:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://krvprashanth.in/posts/debian-14-forky-on-raspberry-pi-5/</loc>
@@ -152,5 +148,17 @@
  <url>
   <loc>https://krvprashanth.in/posts/homebrew-gsm-base-station/</loc>
   <lastmod>2026-01-05T11:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://krvprashanth.in/posts/porting-debian-to-zbitx-v2-5-watts-all-band-all-mode-pocket-sdr-ham-radio/</loc>
+  <lastmod>2026-04-26T22:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://krvprashanth.in/posts/porting-reachy-mini-open-source-companion-robot-to-beagley-ai/</loc>
+  <lastmod>2026-04-26T22:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://krvprashanth.in/posts/using-beagles-as-a-flight-controller/</loc>
+  <lastmod>2026-04-26T22:23:00Z</lastmod>
  </url>
 </urlset>
