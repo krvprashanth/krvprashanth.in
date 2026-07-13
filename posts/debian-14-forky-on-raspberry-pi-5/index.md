@@ -1,7 +1,7 @@
 <!--
 .. title: [ONGOING] Debian 14 "forky" on Raspberry Pi 5
 .. slug: debian-14-forky-on-raspberry-pi-5
-.. date: 2026-04-21 17:41:31 UTC+05:30
+.. date: 2026-06-21 17:41:31 UTC+05:30
 .. tags: debian, raspiberrypi 
 .. category: 
 .. link: 
