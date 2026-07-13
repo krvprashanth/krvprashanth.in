@@ -59,7 +59,8 @@ lang="{{ lang }}">
     {% endif %}
 
     {% if use_cdn %}
-        <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script><![endif]-->
+        <!--[if lt IE 9]><script 
+        src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script><![endif]-->
     {% else %}
         <!--[if lt IE 9]><script src="{{ url_replacer(permalink, '/assets/js/html5shiv-printshiv.min.js', lang, url_type) }}"></script><![endif]-->
     {% endif %}
@@ -84,9 +85,6 @@ lang="{{ lang }}">
     {% endif %}
     <script src="/assets/js/baguetteBox.min.js"></script>
     {% if date_fanciness != 0 %}
-        {% if date_fanciness == 2 %}
-            <script src="https://polyfill.io/v3/polyfill.js?features=Intl.RelativeTimeFormat.%7Elocale.{{ luxon_locales[lang] }}"></script>
-        {% endif %}
         {% if use_cdn %}
             <script src="https://cdn.jsdelivr.net/npm/luxon@1.24.1/build/global/luxon.min.js" integrity="sha256-5FiU7kNb/UJWqMesUFnKv4dJzLMiTWljH0ONkz+h704=" crossorigin="anonymous"></script>
         {% else %}

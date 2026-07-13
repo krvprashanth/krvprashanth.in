@@ -1,7 +1,7 @@
 <!--
 .. title: [ONGOING] Using Beagles as a Flight Controller
 .. slug: using-beagles-as-a-flight-controller
-.. date: 2026-04-27 03:50:21 UTC+05:30
+.. date: 2026-12-27 03:50:21 UTC+05:30
 .. tags: 
 .. category: 
 .. link: 
