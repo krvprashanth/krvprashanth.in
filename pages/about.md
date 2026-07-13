@@ -11,7 +11,7 @@
 
 Hello! I'm Prashanth, Interested in the lower level working of Systems software, CPUs/SoCs and Hardware design. These days I’m trying to improve my abilities to contribute to Debian, Open Hardware and Linux kernel development.
 
-I'm also a radio amateur with a ham radio license in India, and my callsign is ***VU3JMT***. I like to experiment with radio electronics!
+I'm also a radio amateur with a ham radio license in India, and my callsign is ***VU3JMT***. I like to experiment with radio electronics and volunteer as the Joint Secretary of [Lamakaan Amateur Radio Club](https://larc.in/).
 
 Wanna talk me? The best way to contact me is sending email to _krvprashanth at riseup dot net_ or _vu3jmt at qsl dot net_. If you want to send me encrypted email, use my GPG public key: [3A9375EC06B002A2](https://keys.openpgp.org/vks/v1/by-fingerprint/1E6F3F63030B6AB91EACC5D73A9375EC06B002A2).
 
